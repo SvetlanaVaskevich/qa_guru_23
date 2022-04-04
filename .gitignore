@@ -5,3 +5,6 @@
 # Gradle
 .gradle
 build
+
+# Project gen files
+.idea
